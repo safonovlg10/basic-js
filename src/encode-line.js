@@ -1,4 +1,5 @@
-const { NotImplementedError } = require("../extensions/index.js");
+// const { NotImplementedError } = require("../extensions/index.js");
+const { NotImplementedError } = require('../lib');
 
 /**
  * Given a string, return its encoding version.
